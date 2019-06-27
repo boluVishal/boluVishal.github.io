@@ -1,0 +1,285 @@
+body {
+width: 1540px;
+height: 165px;
+background-color: #ffffff;
+}
+#small{
+	
+width: 18px;
+height: 11px;
+background-color: #ff5912;
+position: absolute;
+left: 110px;
+  top: 27px;
+}
+
+#website{
+	position: absolute;
+left: 136px;
+  top: 25px;
+width: 125px;
+height: 15px;
+color: #34404b;
+font-family: Ubuntu;
+font-size: 12px;
+font-weight: 400;
+line-height: 14.4px;
+	
+	
+}
+
+#newsmall{
+	
+width: 12px;
+height: 12px;
+background-color: #ff5912;
+position: absolute;
+left: 280px;
+  top: 27px;
+}
+
+#pno{
+	position: absolute;
+left: 302px;
+  top: 26px;
+width: 94px;
+height: 15px;
+color: #34404b;
+font-family: Ubuntu;
+font-size: 12px;
+font-weight: 400;
+line-height: 14.4px;}
+
+
+
+#login{
+position: absolute;
+left: 1261px;
+  top: 24px;
+width: 40px;
+height: 16px;
+color: #3b3a3a;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 400;
+
+
+}
+
+
+#newuser{
+width: 106px;
+height: 32px;
+border: 1px solid #ff5912;
+
+position: absolute;
+left: 1326px;
+  top: 16px;
+
+color: #3b3a3a;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 400;
+background-color: #ffffff;	
+	
+}
+
+#cheficon{
+
+width: 336px;
+height: 57px;
+
+position: absolute;
+left: 110px;
+  top: 89px;
+	
+	
+	
+}
+#navigation{
+
+width: 367px;
+height: 27px;
+
+position: absolute;
+left: 1065px;
+  top: 123px;
+	
+	
+	
+}
+#bg{
+position: absolute;
+left: 0px;
+  top: 722px;
+  top: 165px;
+width: 1541px;
+height: 498px;
+	
+	background-color: #f4f6f8;
+	
+}
+
+#text1{
+	position: absolute;
+left: 290px;
+  top: 305px;
+width: 944px;
+height: 54px;
+color: #3b3a3a;
+font-family: "Ubuntu Medium";
+font-size: 44px;
+font-weight: 400;
+line-height: 53px;
+	
+}
+#text2{
+	position: absolute;
+left: 292px;
+  top: 375px;
+width: 936px;
+height: 80px;
+color: #2f2f2f;
+font-family: Ubuntu;
+font-size: 24px;
+font-weight: 400;
+letter-spacing: 0.72px;
+line-height: 36px;
+	
+}
+#Enrol{
+	position: absolute;
+left: 293px;
+  top: 499px;
+width: 218px;
+height: 47px;
+background-color: #fc4111;
+
+	
+}
+#chefsitting{
+	position: absolute;
+left: 1284px;
+  top: 522px;
+width: 186px;
+height: 140px;
+
+
+	
+}
+#black-box{
+	position: absolute;
+left: 0px;
+  top:662px;
+width: 1540px;
+height: 60px;
+background-color: #2f2f2f;
+
+
+	
+}
+#label_date{
+	position: absolute;
+left: 292px;
+  top:683px;
+width: 103px;
+height: 23px;
+color: #f0f0f0;
+font-family: Ubuntu;
+font-size: 20px;
+font-weight: 400;
+
+color: #ffffff;
+	
+}
+#date_value{
+	position: absolute;
+left: 411px;
+   top:681px;
+width: 135px;
+height: 27px;
+color: #f0f0f0;
+font-family: Ubuntu;
+font-size: 24px;
+font-weight: 400;
+
+color: #ffffff;
+	
+}
+#label_last_date{
+	position: absolute;
+left: 640px;
+   top:682px;
+width: 227px;
+height: 23px;
+color: #f0f0f0;
+font-family: Ubuntu;
+font-size: 20px;
+font-weight: 400;
+
+color: #ffffff;
+	
+}
+#last_date_value{
+	position: absolute;
+left: 902px;
+     top:679px;
+width: 135px;
+height: 27px;
+color: #f0f0f0;
+font-family: Ubuntu;
+font-size: 24px;
+font-weight: 400;
+color: #ffffff;
+
+	
+}
+#bg2{
+	position: absolute;
+left: 0px;
+  top:722px;
+width: 1540px;
+height: 455px;
+background-color: #f4f6f8;
+	
+}
+p span:not(:first-child){
+    border-left:1px solid #ffffff;
+}
+span{
+    padding:0 8px;
+}
+#dsa_head{
+	position: absolute;
+left: 596px;
+  top:804px;
+width: 359px;
+height: 53px;
+color: #3b3a3a;
+font-family: Ubuntu;
+font-size: 46px;
+font-weight: 400;
+line-height: 43.2px;
+	
+}
+#dsa_intro{
+	position: absolute;
+left: 294px;
+  top:897px;
+width: 942px;
+height: 228px;
+color: #2f2f2f;
+font-family: Ubuntu;
+font-size: 20px;
+font-weight: 400;
+letter-spacing: 0.6px;
+line-height: 36px;
+}
+#bg3{
+	position: absolute;
+
+  top:1170px;
+width: 1541px;
+height: 896px;
+background-color: #ffffff;
+}
